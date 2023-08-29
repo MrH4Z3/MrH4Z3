@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Merhaba, ben @MrH4Z3<br><br>👀 Cyber Security'e merakım var ve Pentester olmak için çalışıyorum. Python öğreniyorum ve ufak tefek kodlamalar yapıyorum.<br><br>🌱 Python'da temel düzeyde bilgi sahibiyim. Ayrıca, IoT, Arduino Ve 3D Printer gibi hobilere de sahibim.<br><br>💞️ Cyber Security konusunda deneyimli geliştiriciler ile işbirliği yapmak istiyorum. Ayrıca, yeni şeyler öğrenmeye ve kendimi geliştirmeye her zaman açığım.<br><br>📫 Bana [e-posta adresi] adresinden veya [LinkedIn profili] adresinden ulaşabilirsiniz.
+👋 Merhaba, ben @MrH4Z3<br><br>👀 Cyber Security'e merakım var ve Pentester olmak için çalışıyorum. Python öğreniyorum ve ufak tefek kodlamalar yapıyorum.<br><br>🌱 Python'da temel düzeyde bilgi sahibiyim. Ayrıca, IoT, Arduino Ve 3D Printer gibi hobilere de sahibim.<br><br>💞️ Cyber Security konusunda deneyimli geliştiriciler ile işbirliği yapmak istiyorum. Ayrıca, yeni şeyler öğrenmeye ve kendimi geliştirmeye her zaman açığım.<br><br>📫 Bana [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barış-can-sarıca-4836b3242) adresinden ulaşabilirsiniz.
 
 
 ## 🌐 Socials:
